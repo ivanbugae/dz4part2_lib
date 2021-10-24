@@ -1,0 +1,19 @@
+{
+    "name": "ivan/file",
+    "autoload": {
+        "files": [
+            "src/myfile.php"
+        ]
+    },
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Bugaev",
+            "email": "bugaevivan22@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^5.3 || ^7.0 || ^8.0"
+    },
+}
