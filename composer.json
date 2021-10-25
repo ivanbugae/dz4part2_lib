@@ -1,12 +1,13 @@
 {
-    "name": "ivan/file",
+    "name": "ivanb/hello",
     "autoload": {
         "files": [
-            "src/myfile.php"
+            "myfile.php"
         ]
     },
     "type": "library",
     "license": "MIT",
+    "minimum-stability":"beta",
     "authors": [
         {
             "name": "Ivan Bugaev",
@@ -15,5 +16,5 @@
     ],
     "require": {
         "php": "^5.3 || ^7.0 || ^8.0"
-    },
+    }
 }
