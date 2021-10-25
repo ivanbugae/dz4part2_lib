@@ -1,5 +1,5 @@
 {
-    "name": "ivanb/hello",
+    "name": "ivanbugae/dz4",
     "autoload": {
         "files": [
             "myfile.php"
@@ -7,7 +7,6 @@
     },
     "type": "library",
     "license": "MIT",
-    "minimum-stability":"beta",
     "authors": [
         {
             "name": "Ivan Bugaev",
