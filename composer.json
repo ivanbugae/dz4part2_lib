@@ -1,9 +1,9 @@
 {
-    "name": "ivanbugae/dz4",
+    "name": "ivanb/file",
     "autoload": {
-        "files": [
-            "myfile.php"
-        ]
+        "psr-4": {
+            "IvanB\\": "src/"
+        }
     },
     "type": "library",
     "license": "MIT",
