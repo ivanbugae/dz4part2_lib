@@ -2,7 +2,7 @@
     "name": "ivanb/file",
     "autoload": {
         "psr-4": {
-            "IvanB\\": "src/"
+            "IvanBFile\\": "src/"
         }
     },
     "type": "library",
